@@ -17,14 +17,14 @@ app.use(express.json());
 let waitList = [
   {
     id: "not yoda",
-    name: "Yoda",
-    email: "Jedi@Master.com",
+    name: "Not Yoda",
+    email: "NotJedi@Master.com",
     phone: 900 - 999 - 9999,
   },
 ];
 let reservations = [
   {
-    id: "yoda420baby",
+    id: "yoda",
     name: "Yoda",
     email: "Jedi@Master.com",
     phone: 900 - 999 - 9999,
